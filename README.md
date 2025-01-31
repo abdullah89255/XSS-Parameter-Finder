@@ -22,7 +22,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Hackpy3/XSS-Parameter-Finder
+   git clone https://github.com/abdullah89255/XSS-Parameter-Finder
    cd XSS-Parameter-Finder
    ```
 
